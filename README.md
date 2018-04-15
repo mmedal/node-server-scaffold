@@ -16,7 +16,7 @@
 [build-status-href]: https://travis-ci.org/{% owner %}/{% name %}/branches
 
 [dependencies-badge]: https://img.shields.io/david/{% owner %}/{% name %}/master.svg?style=flat-square
-[dependencies-href]: https://david-dm.org/{% owner %}/{% name %}/master#info=dependencies
+[dependencies-href]: https://david-dm.org/{% owner %}/{% name %}/master
 
 [dev-dependencies-badge]: https://img.shields.io/david/dev/{% owner %}/{% name %}/master.svg?style=flat-square
-[dev-dependencies-href]: https://david-dm.org/{% owner %}/{% name %}/master#info=devDependencies
+[dev-dependencies-href]: https://david-dm.org/{% owner %}/{% name %}/master?type=dev
